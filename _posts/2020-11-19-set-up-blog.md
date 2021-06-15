@@ -3,7 +3,7 @@ layout: post
 title: "Set up blog"
 date: 2020-11-19
 excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+tags: [introduction]
 comments: true
 ---
 
