@@ -63,8 +63,8 @@ steam:              windy23334
 #hackernews:        username
 
 gittalk: 
-    clientID: 
-    clientSecret: 
+    clientID: 32750b255619a43fb506
+    clientSecret: c585dd3ba499db6f1f2067e2946ecf419bec0463 
     repo: gitalk
     owner: Windy810
 
