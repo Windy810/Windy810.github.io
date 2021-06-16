@@ -62,6 +62,12 @@ steam:              windy23334
 #xmpp:              username@server.com
 #hackernews:        username
 
+gittalk: 
+    clientID: 
+    clientSecret: 
+    repo: gitalk
+    owner: Windy810
+
 # Gems
 gems:
   - jekyll-mentions
