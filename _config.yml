@@ -52,8 +52,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
+  # - title:             Résumé*
+  #   url:               /resume/
   - title:             Documentation
     url:               /docs/
 
@@ -82,7 +82,7 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
