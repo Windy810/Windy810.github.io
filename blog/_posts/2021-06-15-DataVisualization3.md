@@ -2,10 +2,10 @@
 layout: post
 title: "数据可视化（三）之python基础"
 date: 2021-06-15
-excerpt: "数据可视化知识点整理，包括python编程基础等"
+description: "数据可视化知识点整理，包括python编程基础等"
 tags: ["数据可视化"]
 comments: true
-img:
+image:
   path: /assets/img/blog/dv3.jpg
 ---
 * content

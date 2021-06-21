@@ -2,7 +2,7 @@
 layout: post
 title: "数据可视化"
 date: 2021-06-14
-excerpt: "数据可视化知识点整理"
+description: "数据可视化知识点整理"
 tags: ["数据可视化"]
 comments: true
 ---
