@@ -8,11 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    An enthusiastic learner who’s eager to learn cryptography . Interested in Crypto & Blockchain.
+    Currently, undergraduate at NEFU. Please check my Resume to find out more about me!
+    If you have any questions, feel free to contact me at anytime.
+
 
   # This photo will be used in the about section
   picture:
@@ -28,8 +27,8 @@ author1:
   social:
     twitter:         <username>
     github:          windy810
-    # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
+    email:           windy23334@gmail.com
+    rss:             https:///windy810.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -47,7 +46,7 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
+    steam:           76561198876061722
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
