@@ -7,6 +7,8 @@ category: development
 tags: Android开发 开发
 comments: true
 ---
+* content
+{:toc}
 
 ## 一、GUI开发
 ### 1.1 常用布局

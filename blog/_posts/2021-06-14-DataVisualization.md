@@ -3,9 +3,12 @@ layout: post
 title: "数据可视化"
 date: 2021-06-14
 description: "数据可视化知识点整理"
-tags: ["数据可视化"]
+tags: 数据可视化
 comments: true
 ---
+* content
+{:toc}
+
 ## 如何做好数据可视化
 ### 一、什么是好的数据可视化
 1. 适用于人类双眼和大脑的数据可视化
