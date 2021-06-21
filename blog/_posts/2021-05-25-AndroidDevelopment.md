@@ -7,7 +7,7 @@ category: development
 tags: Android开发 开发
 comments: true
 ---
-# Android开发
+
 ## 一、GUI开发
 ### 1.1 常用布局
 * 线性布局（LinearLayout）：`android:orientation="horizontal"`用于控制界面水平布局

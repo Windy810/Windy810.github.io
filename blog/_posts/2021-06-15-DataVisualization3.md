@@ -9,8 +9,6 @@ comments: true
 * content
 {:toc}
 
-# 数据可视化（三）之python基础
-
 ## 3.1 开始使用Python IDE
 
 ### 3.1.1 Anaconda
@@ -18,6 +16,7 @@ comments: true
 1. 定义：Conda 是一个开源的软件包管理系统和环境管理系统，用于安装多个版本的软件包及其依赖关系，并在它们之间轻松切换
 2. 可视化导航工具：Anaconda Navigator可对Anaconda中的环境和组件以及软件包进行管理
 3. 命令：
+
 * 创建环境
   * 查看：conda env list
   * conda create -n myenvname python=3.5
