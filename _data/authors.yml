@@ -25,7 +25,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    # twitter:         <username>
     github:          windy810
     email:           windy23334@gmail.com
     rss:             https:///windy810.github.io/feed.xml
