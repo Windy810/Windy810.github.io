@@ -52,8 +52,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  # - title:             Résumé*
-  #   url:               /resume/
+  - title:             Résumé*
+    url:               /resume/
   - title:             Documentation
     url:               /docs/
 
