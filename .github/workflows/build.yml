@@ -1,0 +1,16 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ new_theme ]
+  pull_request:
+    branches: [ new_theme ]
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: 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
