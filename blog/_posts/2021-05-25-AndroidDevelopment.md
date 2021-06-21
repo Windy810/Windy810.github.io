@@ -3,8 +3,8 @@ layout: post
 title: "Android开发"
 date: 2021-05-25
 description: "安卓开发知识点整理"
-category: development
-tags: Android开发 开发
+category: Development
+tags: Android
 comments: true
 ---
 * content
