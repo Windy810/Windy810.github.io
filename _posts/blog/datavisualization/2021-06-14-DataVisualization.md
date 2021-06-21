@@ -3,7 +3,8 @@ layout: post
 title: "数据可视化"
 date: 2021-06-14
 description: "数据可视化知识点整理"
-tags: 数据可视化
+tags: datavisualization
+category: blog
 comments: true
 ---
 * content
