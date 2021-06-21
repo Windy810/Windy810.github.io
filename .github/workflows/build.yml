@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
         with:
-          token: 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
+          token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_src: ./#jekyll-theme-hydejack
