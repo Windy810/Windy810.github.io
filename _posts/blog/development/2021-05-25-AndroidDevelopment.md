@@ -4,7 +4,7 @@ title: "Android开发"
 date: 2021-05-25
 description: "安卓开发知识点整理"
 category: blog
-tags: development
+tags: development android
 comments: true
 ---
 * content
