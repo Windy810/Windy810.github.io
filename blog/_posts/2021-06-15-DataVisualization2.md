@@ -5,7 +5,7 @@ date: 2021-06-15
 description: "数据可视化知识点整理，包括如何做好数据可视化与数据可视化的一般流程"
 tags: ["数据可视化"]
 comments: true
-img:
+image:
   path: "https://gitee.com/windy810/pictures/raw/master/%E7%AE%B1%E7%BA%BF%E5%9B%BE.png"
 ---
 * content
