@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Development
     url:               /development/
-  # - title:             Blog
-  #   url:               /blog/
+  - title:             Blog
+    url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             Résumé*
@@ -436,4 +436,9 @@ gitalk:
     owner: Windy810
     admin: Windy810
 
-clap_button: true
+clap_button: 
+    enabled: true
+    color: pink
+    multiclap: true
+    api: https://api.applause-button.com
+    url: https://windy810.github.io
