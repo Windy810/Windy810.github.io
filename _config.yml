@@ -435,3 +435,5 @@ gitalk:
     repo: gitalk
     owner: Windy810
     admin: Windy810
+
+clap_button: true
