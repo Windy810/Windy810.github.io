@@ -6,5 +6,5 @@ slug: development
 category: blog
 sidebar: true
 description: >
-   Posts about blogging / jekyll theme.
+   开发学习记录
 ---
