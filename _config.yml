@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Development
-    url:               /development/
+  # - title:             Development
+  #   url:               /development/
   - title:             Blog
     url:               /blog/
   - title:             Projects
