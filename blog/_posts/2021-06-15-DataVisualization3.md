@@ -6,7 +6,7 @@ excerpt: "数据可视化知识点整理，包括python编程基础等"
 tags: ["数据可视化"]
 comments: true
 img:
-  path: /assets/img/dv3.jpg
+  path: /assets/img/blog/dv3.jpg
 ---
 * content
 {:toc}
