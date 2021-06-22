@@ -442,3 +442,8 @@ clap_button:
     multiclap: true
     api: https://api.applause-button.com
     url: https://windy810.github.io
+
+statcounter:
+    enabled: true
+    url: https://statcounter.com/p12554460/summary/
+    counter: https://c.statcounter.com/12554460/0/de28f25f/0
