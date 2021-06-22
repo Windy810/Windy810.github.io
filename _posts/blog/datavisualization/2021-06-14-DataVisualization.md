@@ -7,6 +7,8 @@ tags: datavisualization
 category: blog
 comments: true
 sitemap: true
+image:
+  path: "https://gitee.com/windy810/pictures/blob/master/dv2.jfif"
 ---
 * content
 {:toc}

@@ -9,7 +9,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: /assets/img/blog/dv3.jpg
+  path: "https://gitee.com/windy810/pictures/raw/master/dv3.jpg"
 ---
 * content
 {:toc}
