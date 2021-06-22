@@ -6,6 +6,7 @@ description: "安卓开发知识点整理"
 category: blog
 tags: development android
 comments: true
+sitemap: true
 ---
 * content
 {:toc}

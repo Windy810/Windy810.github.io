@@ -7,6 +7,7 @@ featured: false
 tags: datavisualization python
 category: blog
 comments: true
+sitemap: true
 image:
   path: /assets/img/blog/dv3.jpg
 ---

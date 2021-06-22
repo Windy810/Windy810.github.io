@@ -6,6 +6,7 @@ description: "数据可视化知识点整理"
 tags: datavisualization
 category: blog
 comments: true
+sitemap: true
 ---
 * content
 {:toc}

@@ -6,6 +6,7 @@ description: "数据可视化知识点整理，包括如何做好数据可视化
 tags: datavisualization
 category: blog
 comments: true
+sitemap: true
 image:
   path: "https://gitee.com/windy810/pictures/raw/master/%E7%AE%B1%E7%BA%BF%E5%9B%BE.png"
 ---
