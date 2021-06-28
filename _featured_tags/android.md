@@ -3,7 +3,7 @@ layout: list
 type: tag
 title: Android
 slug: android
-category: development
+category: blog
 sidebar: true
 description: >
    how to develop an android application
