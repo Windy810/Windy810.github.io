@@ -52,8 +52,8 @@ menu:
   #   url:               /development/
   - title:             Blog
     url:               /blog/
-  # - title:             Projects
-  #   url:               /projects/
+  - title:             Leetcode
+    url:               /leetcode/
   # - title:             Résumé*
   #   url:               /resume/
   # - title:             Documentation
