@@ -12,7 +12,7 @@ links:
     url: https://github.com/Windy810/Logistics
 accent_color: '#4fb1ba'
 accent_image:
-  background: '#9370DB'
+  background: http://img.mp.itc.cn/upload/20170510/6e0ef81ab3e741b8b18fbdddabd6b99d_th.jpg
 theme_color: '#9370DB'
 sitemap: false
 ---
