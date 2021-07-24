@@ -15,7 +15,7 @@ I created this personal website to keep track of my progress in Crypto learning 
 * [Leetcode]{:.heading.flip-title} ---  some of my LeetCode solutions.
 * [Projects]{:.heading.flip-title} ---  Overview of my projects.
 
-[blog]: blog-posts/
+[blog]: blog/
 [Leetcode]: leetcode/
 [projects]: projects/
 
