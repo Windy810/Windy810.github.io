@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "计算机网络基础概念总结"
-date: 2020-10-11
+title: "饿了么爬虫"
+date: 2021-8-7
 description: "一次饿了么商品信息爬虫的记录"
 tags: spider python
 category: blog
 comments: true
 sitemap: true
 image:
-  path: "https://xxglzx.zua.edu.cn/__local/1/42/04/B871F1AB478702DB41C53DF59DA_83F5567C_2DE10.jpg?e=.jpg"
+  path: "http://x0.ifengimg.com/res/2019/3870F8CF4E723E77E04F4D48000B376486E6006F_size27_w539_h271.jpeg"
 ---
 * content
 {:toc}
