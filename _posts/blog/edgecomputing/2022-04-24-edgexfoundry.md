@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EdgeX Foundry踩坑日常"
-date: 2022-05-24
+date: 2022-04-24
 description: "记录搭建EdgeXFoundry框架过程中的问题"
 tags: edgecomputing
 category: blog
