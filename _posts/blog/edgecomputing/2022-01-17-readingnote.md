@@ -8,7 +8,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: "https://s2.51cto.com/oss/202001/18/a9e6e951e9c1c74b69f1fef319cc2d87.jpg-wh_651x-s_1951875843.jpg"
+  path: "https://imgur.com/a/InWyycX"
 ---
 * content
 {:toc}

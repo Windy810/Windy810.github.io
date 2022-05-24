@@ -8,7 +8,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: "https://gitee.com/windy810/pictures/raw/master/%E7%AE%B1%E7%BA%BF%E5%9B%BE.png"
+  path: "https://imgur.com/a/V0JbQpi"
 ---
 * content
 {:toc}
