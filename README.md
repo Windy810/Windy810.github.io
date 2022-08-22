@@ -20,3 +20,9 @@ I created this personal website to keep track of my progress in Crypto learning 
 [projects]: projects/
 
 ### 💖 And here is my [dearest](https://zyazhb.github.io/) ☜(ﾟヮﾟ☜),who is the best in my heart~
+
+## Friends' Links
+
+* [Ch3nYe](https://ch3nye.top/)  
+* [yueqsun](https://yueqsun.github.io/)
+* [Dimsmary](https://dimsmary.tech/)
