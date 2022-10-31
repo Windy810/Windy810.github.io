@@ -8,7 +8,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: "http://www.chazhongzhi.cn/upload/5a964df036a54ccfb4f31996df6c4642.jpg"
+  path: "https://imgur.com/a/bD87wzg"
 ---
 * content
 {:toc}
