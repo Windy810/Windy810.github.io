@@ -29,6 +29,8 @@ export ALL_PROXY = 'sock5://172.30.48.1:7890'
 
 ## 二、GitHub连接问题
 
+### 2.1 ssh认证失败问题
+
 1. 设置公私钥
 2. 在zshrc内写入：
 
@@ -36,6 +38,19 @@ export ALL_PROXY = 'sock5://172.30.48.1:7890'
 eval "$(ssh-agent)"
 ssh-add ~/.ssh/github
 ```
+
+### 2.2 `kex_exchange_identification: Connection closed by remote host` 问题
+
+1. 经检查发现Github平台与本地的ssh key均配置正常
+2. 执行命令`ssh -T git@github.com`返回上述结果
+3. 原因：在锅锅的有效搜索方法下，发现可能是使用的梯子封禁了 Github 端口 22 的连接
+4. 解决方案：为`~/.ssh/config`添加以下代码：
+  ```
+  Host github.com
+      HostName ssh.github.com
+      User git
+      Port 443
+  ```
 
 ## 三、GitHub Action的小用处
 
