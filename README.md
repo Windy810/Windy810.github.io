@@ -7,7 +7,7 @@ description: "I can see that you've walked thousands of miles just to reach this
 
 ## Hi, I am Windy!!! 🎉
 
-I created this personal website to keep track of my progress in Crypto learning and so on, talk about my learning experience as a student of CS, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to be a Digital Hero one day！ha-ha:)
+I created this personal website to keep track of my progress in deep reinforcement learning and so on, talk about my learning experience as a student of CS, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to be a Digital Hero one day！ha-ha:)
 
 ## Feel Free to Explore
 
