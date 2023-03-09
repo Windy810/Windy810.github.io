@@ -8,7 +8,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: "https://imgur.com/xCQo3Mx"
+  path: "https://imgur.com/xCQo3Mx.png"
 ---
 * content
 {:toc}
@@ -30,7 +30,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 标准的机器学习是集中式的，可以访问所有数据
 - 在云端使用软件工具运行模型，通过特殊硬件加速
 
-![Untitled](https://imgur.com/xCQo3Mx)
+![Untitled](https://imgur.com/xCQo3Mx.png)
 
 ### 1.2 无线边缘的机器学习
 
@@ -39,7 +39,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 以上原因促使了机器学习需要更接近网络边缘
 
-![Untitled](https://imgur.com/2z4ZBoQ)
+![Untitled](https://imgur.com/2z4ZBoQ.png)
 
 ### 1.3 网络化机器学习模型
 
@@ -47,7 +47,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 联邦机器学习：云与用户设备同时机器学习；只有部分数据存储在云端；促进隐私
 - 去中心化机器学习：没有类似于云的基础设施；数据完全分布；协作智能；隐私
 
-![Untitled](https://imgur.com/NpXEPP8)
+![Untitled](https://imgur.com/NpXEPP8.png)
 
 ## 2. 联邦学习
 
@@ -59,14 +59,14 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 【联邦计算】边缘节点(AP)从终端收集权重并更新共享模型→迭代至收敛
 
-![Untitled](https://imgur.com/aFewsqH)
+![Untitled](https://imgur.com/aFewsqH.png)
 
 ### 2.2 需要解决的问题
 
 - 与边缘节点的交流只能通过无线信道
 - 无线介质是共享的而且有限：每轮更新只能选取部分设备；因为干扰传输不可靠
 
-![Untitled](https://imgur.com/hPUU0zs)
+![Untitled](https://imgur.com/hPUU0zs.png)
 
 ### 2.3 调度机制
 
@@ -74,7 +74,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 轮询：分组再依次选组
 - 比例公平：选择最强信噪比的终端用户
 
-![Untitled](https://imgur.com/65XiqPK)
+![Untitled](https://imgur.com/65XiqPK.png)
 
 ### 2.4 性能指标
 
@@ -85,11 +85,11 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 【注】$\epsilon$-accurate solution：最大化一个强凸函数（原始解和对偶解是相同的），此时，只有两个解，原始解和对偶解，彼此在$\epsilon$之内
 
-![Untitled](https://imgur.com/7RbB76r)
+![Untitled](https://imgur.com/7RbB76r.png)
 
 【参数注解】$\epsilon$是试图实现的二元差，$\theta$是信噪比阈值，其他如图所示（具体细节可以暂时不注意）
 
-![联邦学习的收敛速度](https://imgur.com/15GhQeO)
+![联邦学习的收敛速度](https://imgur.com/15GhQeO.png)
 
 联邦学习的收敛速度
 
@@ -100,7 +100,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 原因说明：当信道很好的时候，意味着数据包都通过了，所以每个数据包等量地被使用是最合适的
 
-![Untitled](https://imgur.com/bfmGGcD)
+![Untitled](https://imgur.com/bfmGGcD.png)
 
 【结论】调度协议十分重要
 
@@ -109,7 +109,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 轮询在两方面表现都明显较好
 - 如果交流回合够多，则两者差不多，次数较少的情况下，轮询收敛快很多
 
-![Untitled](https://imgur.com/CSFru05)
+![Untitled](https://imgur.com/CSFru05.png)
 
 ### 2.5 优化调度
 
@@ -117,13 +117,13 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 设计指标：信息时代/信息的年龄(AoI)
 - 设计思路：每回交流，如果被选择，则将AoI降为0，否则，加1
 
-![Untitled](https://imgur.com/X5SmANb)
+![Untitled](https://imgur.com/X5SmANb.png)
 
 - **最终算法**：于是，据此设计一个使得平均信息年龄最小化的算法，称为**无线轮询**
 
 【实验分析】如上类似的实验条件，比较无线轮询和最大包算法（每一轮发出尽可能最多的包）的表现，发现其明显优于该算法
 
-![Untitled](https://imgur.com/Dw35124)
+![Untitled](https://imgur.com/Dw35124.png)
 
 ### 2.6 联邦学习中的隐私保护
 
@@ -131,7 +131,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 后来发现用户数据可以从模型参数中推断出来
 - 所以用户数据的隐私是联邦学习的一个问题
 
-![Untitled](https://imgur.com/la90Qpa)
+![Untitled](https://imgur.com/la90Qpa.png)
 
 所以提出了一些解决方案，类似于**差分隐私**，特征如下
 
@@ -140,14 +140,14 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 有时候可以向数据添加噪声来实现差异隐私，但是会影响性能
 - 需要在隐私和性能之间进行权衡
 
-![Untitled](https://imgur.com/5lvYZKk)
+![Untitled](https://imgur.com/5lvYZKk.png)
 
 【实验说明】对MNIST数据集进行卷积神经网络拟合
 
 - 紫色线为没有添加任何噪音
 - $\epsilon$参数越小，则差分隐私的隐私程度越大，其性能也就越差
 
-![Untitled](https://imgur.com/qYVxuuN)
+![Untitled](https://imgur.com/qYVxuuN.png)
 
 ## 3. 去中心化学习
 
@@ -161,7 +161,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 去中心化学习：学习体数量=训练样本数
 
-![Untitled](https://imgur.com/v3zHoWC)
+![Untitled](https://imgur.com/v3zHoWC.png)
 
 但是本地的学习是**局部不连贯**的：
 
@@ -169,7 +169,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 如果一个模型中有局部不连贯，那么其是次优的
 
-![Untitled](https://imgur.com/fM4Bs5c)
+![Untitled](https://imgur.com/fM4Bs5c.png)
 
 ### 3.2 协同算法
 
@@ -179,7 +179,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 
 【引申结论】分布式机器学习可以通过消除此类不一致来获得接近最优的算法
 
-![Untitled](https://imgur.com/9gkJQl6)
+![Untitled](https://imgur.com/9gkJQl6.png)
 
 【实验分析】有50个传感器构成的学习体和50个训练数据库，假设回归函数f是线性的，i和j称为邻居，其距离定义为r，代表连通性，r越大则二分图中的边越多，即每个学习体可以访问的数据库越多。使用线性内核进行内核学习，纵轴代表平均平方误差
 
@@ -187,7 +187,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 较高的虚线为没有协同算法的，需要连通性很大的情况下才能达到集中学习的表现
 - 较矮的虚线为有协同算法的，明显在合理的时间内和集中学习的表现一样好
 
-![Untitled](https://imgur.com/9AEThHd)
+![Untitled](https://imgur.com/9AEThHd.png)
 
 ### 3.3 分布式强化学习
 
@@ -198,14 +198,14 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
     2. 在邻居间寻找共识，达成一致
     3. 在连通性上收敛到全局最优
 
-![Untitled](https://imgur.com/aYpzOxc)
+![Untitled](https://imgur.com/aYpzOxc.png)
 
 【模拟】Q函数有四个值，将其随机扔到一个区域里，然后使用两个最近的邻居来连通，再来绘制图。左图为一个典型的agent，右图为十个agent
 
 - 左图能达到集中，汇聚在一起了
 - 右图显示，一开始他们变化很大，但是由于算法的一致性，最后他们会收敛到一起，达成共识
 
-![Untitled](https://imgur.com/SXmqNTB)
+![Untitled](https://imgur.com/SXmqNTB.png)
 
 ## 4. Conclusion
 
@@ -214,7 +214,7 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 联邦学习：边缘设备与终端用户设备交互来学习常用模型
 - 去中心化学习：终端用户设备与另一台设备交互来协作学习模型或动作
 
-![Untitled](https://imgur.com/tzhE5tQ)
+![Untitled](https://imgur.com/tzhE5tQ.png)
 
 【一些研究上的问题】
 
@@ -223,11 +223,11 @@ URL 2: 【【直播回放】IEEE TNSE杰出讲座系列（五） 2022年10月28�
 - 边缘数据有限
 - 安全和隐私
 
-![Untitled](https://imgur.com/xwu3GLq)
+![Untitled](https://imgur.com/xwu3GLq.png)
 
 【相关论文】
 
-![Untitled](https://imgur.com/QNgl4ym)
+![Untitled](https://imgur.com/QNgl4ym.png)
 
 ## 5. 提问与回答
 

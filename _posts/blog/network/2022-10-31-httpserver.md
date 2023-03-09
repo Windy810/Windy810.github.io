@@ -8,7 +8,7 @@ category: blog
 comments: true
 sitemap: true
 image:
-  path: "https://imgur.com/a/bD87wzg"
+  path: "https://imgur.com/a/bD87wzg.png"
 ---
 * content
 {:toc}
